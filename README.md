@@ -9,5 +9,3 @@ A simple frontend design made by myself, html, css languages.
 
 
 Images from the Project;
-
-![alt text]([url=https://hizliresim.com/YXD3IA][img]https://i.hizliresim.com/YXD3IA.png[/img][/url])
