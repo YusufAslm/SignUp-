@@ -10,4 +10,4 @@ A simple frontend design made by myself, html, css languages.
 
 Images from the Project;
 
-![alt text]([url=https://hizliresim.com/YXD3IA][img]https://i.hizliresim.com/YXD3IA.png[/img][/url])
+![unknown](https://user-images.githubusercontent.com/72263391/95736377-d4340380-0c8e-11eb-85f5-b2f76ad280b9.png)
