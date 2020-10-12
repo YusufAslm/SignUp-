@@ -10,4 +10,4 @@ A simple frontend design made by myself, html, css languages.
 
 Images from the Project;
 
-![alt text](file:///C:/Users/EXE/Desktop/unknown.png)
+[alt text](file:///C:/Users/EXE/Desktop/unknown.png)
