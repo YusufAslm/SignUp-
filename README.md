@@ -8,3 +8,4 @@ A simple frontend design made by myself, html, css languages.
 - Date: 07/10/2020 20:10
 
 [url=https://hizliresim.com/YXD3IA][img]https://i.hizliresim.com/YXD3IA.png[/img][/url]
+a
