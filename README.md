@@ -8,4 +8,6 @@ A simple frontend design made by myself, html, css languages.
 - Date: 07/10/2020 20:20
 
 
+Images from the Project;
 
+![alt text](https://hizliresim.com/YXD3IA)
