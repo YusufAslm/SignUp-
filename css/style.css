@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background: url(file:///C:/Users/EXE/Downloads/eXyPQAT.jpg);
+    background: url(file:///C:/Users/yusuf/Desktop/SignUp--main/images/loginwebsite.jpg);
     background-size: cover;
 }
 
@@ -58,7 +58,7 @@ body {
 .box .inputBox input:valid~label {
     top: -20px;
     left: 0px;
-    color: #07689f;
+    color: #0942fc;
     font-size: 12px;
 }
 
@@ -67,7 +67,7 @@ body {
     border: none;
     outline: none;
     color: #fff;
-    background: #07689f;
+    background: #0942fc;
     padding: 10px 30px;
     cursor: pointer;
     border-radius: 5px;
